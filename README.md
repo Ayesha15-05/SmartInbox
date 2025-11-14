@@ -32,7 +32,7 @@ It combines everyday email features with intelligent tools powered by the **Groq
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rushilch/Email.git
+git clone https://github.com/Ayesha15-05/SmartInbox.git
 cd Email
 ```
 
@@ -153,4 +153,5 @@ Email/
 *  File attachments
 *  Dockerized deployment
 *  Real‑time new message alerts
+
 
